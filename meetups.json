@@ -30,4 +30,12 @@
     "phone": "",
     "twitter": "",
     "github": ""
+}, {
+    "name": "Code for Dayton",
+    "url": "http://codefordayton.org/",
+    "location": "Tech Town II, 711 East Monument Avenue, Dayton, OH",
+    "rsvp": "http://www.meetup.com/Code-for-Dayton/events/",
+    "phone": "",
+    "twitter": "davecaraway",
+    "github": "codefordayton"
 }]
