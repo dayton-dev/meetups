@@ -26,12 +26,14 @@ var body = meetups.map(function(meetup) {
     var line = [];
 
     var name = marklink(meetup.name, meetup.url);
+    var location = marklink(meetup.location, meetup.location, "https://www.google.com/maps/place/");
     var rsvp = marklink("rsvp", meetup.rsvp);
+    var phone = marklink(meetup.phone, "tel:+" + meetup.phone);
     var twitter = meetup.twitter ? marklink("@" + meetup.twitter, meetup.twitter, "https://twitter.com/") : "";
     var github = marklink(meetup.github, meetup.github, "https://github.com/");
-    var location = marklink(meetup.location, meetup.location, "https://www.google.com/maps/place/");
+    
 
-    line.push(name, rsvp, twitter, github, location);
+    line.push(name, location, rsvp, phone, twitter, github);
 
     return line.join("|");
 
