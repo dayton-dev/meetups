@@ -15,15 +15,21 @@ labels.splice(1, 1)
 var head = labels.join("|");
 var line = labels.map(function() { return "-----" }).join("|");
 
+// simple abstraction to generate a link
+function marklink(name, url, url_prefix) {
+    if (url_prefix) url = url_prefix + url;
+    return [ "[" + name + "]", "(" + url + ")" ].join("");
+}
+
 var body = meetups.map(function(meetup) {
 
     var line = [];
 
-    var name = [ "[", meetup.name , "]", "(", meetup.url, ")" ].join("");
-    var rsvp = [ "[", "rsvp" , "]", "(", meetup.rsvp, ")" ].join("")
-    var twitter = [ "[", "@", meetup.twitter, "]", "(", "https://twitter.com/", meetup.twitter, ")"].join("")
-    var github = [ "[", meetup.github, "]", "(", "https://github.com/", meetup.github, ")" ].join("")
-    var location = [ "[", meetup.location, "]", "(", "https://www.google.com/maps/place/", meetup.location, ")" ].join("")
+    var name = marklink(meetup.name, meetup.url);
+    var rsvp = marklink("rsvp", meetup.rsvp);
+    var twitter = meetup.twitter ? marklink("@" + meetup.twitter, meetup.twitter, "https://twitter.com/") : "";
+    var github = marklink(meetup.github, meetup.github, "https://github.com/");
+    var location = marklink(meetup.location, meetup.location, "https://www.google.com/maps/place/");
 
     line.push(name, rsvp, twitter, github, location);
 
