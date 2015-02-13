@@ -62,4 +62,20 @@
     "phone": "",
     "twitter": "bg_dayton",
     "github": ""
+}, {
+    "name": "Dayton WordPress",
+    "url": "http://www.meetup.com/Dayton-WordPress/",
+    "location": "520 East 1st Street, Dayton, OH 45402, USA",
+    "rsvp": "http://www.meetup.com/Dayton-WordPress/events",
+    "phone": "",
+    "twitter": "DaytonWP",
+    "github": ""
+}, {
+    "name": "Dayton Elixir",
+    "url": "http://www.meetup.com/DaytonElixir/",
+    "location": "The Greene 50 Chestnut Street Suite 224 Beavercreek, Ohio 45440",
+    "rsvp": "http://www.meetup.com/DaytonElixir/events",
+    "phone": "",
+    "twitter": "daytonelixir",
+    "github": ""
 }]
