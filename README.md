@@ -2,6 +2,8 @@
 
 A place to keep information about events
 
+### regular meetups
+
 name|location|rsvp|phone|twitter|github
 -----|-----|-----|-----|-----|-----
 [Gem City JS](http://gemcityjs.com/)|[123 Webster St, Dayton, OH](https://www.google.com/maps/place/123 Webster St, Dayton, OH)|[rsvp](https://www.eventbrite.com/e/gem-city-js-tickets-15258648027)|[9374010915](tel:+9374010915)|[@gemcityjs](https://twitter.com/gemcityjs)|[gemcityjs](https://github.com/gemcityjs)
@@ -11,3 +13,4 @@ name|location|rsvp|phone|twitter|github
 [Code for Dayton](http://codefordayton.org/)|[711 East Monument Avenue, Dayton, OH](https://www.google.com/maps/place/711 East Monument Avenue, Dayton, OH)|[rsvp](http://www.meetup.com/Code-for-Dayton/events/)|[](tel:+)|[@davecaraway](https://twitter.com/davecaraway)|[codefordayton](https://github.com/codefordayton)
 [Dayton Data Visualization Group](http://www.meetup.com/daytondv/)|[2681 Commons Blvd, Beavercreek, OH](https://www.google.com/maps/place/2681 Commons Blvd, Beavercreek, OH)|[rsvp](http://www.meetup.com/daytondv/events/)|[](tel:+)|[@daytondv](https://twitter.com/daytondv)|[](https://github.com/)
 [Dayton Ruby Brigade](http://www.daytonrb.com/)|[The Greene 50 Chestnut Street Suite 224 Beavercreek, Ohio 45440](https://www.google.com/maps/place/The Greene 50 Chestnut Street Suite 224 Beavercreek, Ohio 45440)|[rsvp](http://www.meetup.com/daytonrb/events/)|[](tel:+)|[@DaytonRuby](https://twitter.com/DaytonRuby)|[daytonrb](https://github.com/daytonrb)
+[Dayton Build Guild](http://dayton.buildguild.org/)|[530 East Fifth Street, Dayton, OH 45402](https://www.google.com/maps/place/530 East Fifth Street, Dayton, OH 45402)|[rsvp](http://dayton.buildguild.org/)|[](tel:+)|[@bg_dayton](https://twitter.com/bg_dayton)|[](https://github.com/)
