@@ -1,0 +1,17 @@
+[{
+    "name": "Dayton Hamvention",
+    "url": "http://hamvention.org/",
+    "location": "P.O. Box 964 Dayton, OH 45401-0964",
+    "rsvp": "http://hamvention.org/purchase-tickets/",
+    "phone": "9372766930",
+    "twitter": "hamvention",
+    "github": ""
+}, {
+    "name": "Dayton TechFest",
+    "url": "http://www.ascdayton.org/TechFest/",
+    "location": "301 West Fourth Street, Dayton, Ohio 45402",
+    "rsvp": "http://www.ascdayton.org/TechFest/sign_up.html",
+    "phone": "",
+    "twitter": "",
+    "github": ""
+}]
