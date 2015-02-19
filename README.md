@@ -16,3 +16,11 @@ name|location|rsvp|phone|twitter|github
 [Dayton Build Guild](http://dayton.buildguild.org/)|[530 East Fifth Street, Dayton, OH 45402](https://www.google.com/maps/place/530 East Fifth Street, Dayton, OH 45402)|[rsvp](http://dayton.buildguild.org/)|[](tel:+)|[@bg_dayton](https://twitter.com/bg_dayton)|[](https://github.com/)
 [Dayton WordPress](http://www.meetup.com/Dayton-WordPress/)|[520 East 1st Street, Dayton, OH 45402, USA](https://www.google.com/maps/place/520 East 1st Street, Dayton, OH 45402, USA)|[rsvp](http://www.meetup.com/Dayton-WordPress/events)|[](tel:+)|[@DaytonWP](https://twitter.com/DaytonWP)|[](https://github.com/)
 [Dayton Elixir](http://www.meetup.com/DaytonElixir/)|[The Greene 50 Chestnut Street Suite 224 Beavercreek, Ohio 45440](https://www.google.com/maps/place/The Greene 50 Chestnut Street Suite 224 Beavercreek, Ohio 45440)|[rsvp](http://www.meetup.com/DaytonElixir/events)|[](tel:+)|[@daytonelixir](https://twitter.com/daytonelixir)|[](https://github.com/)
+
+
+### annual events
+
+name|location|rsvp|phone|twitter|github
+-----|-----|-----|-----|-----|-----
+[Dayton Hamvention](http://hamvention.org/)|[P.O. Box 964 Dayton, OH 45401-0964](https://www.google.com/maps/place/P.O. Box 964 Dayton, OH 45401-0964)|[rsvp](http://hamvention.org/purchase-tickets/)|[9372766930](tel:+9372766930)|[@hamvention](https://twitter.com/hamvention)|[](https://github.com/)
+[Dayton TechFest](http://www.ascdayton.org/TechFest/)|[301 West Fourth Street, Dayton, Ohio 45402](https://www.google.com/maps/place/301 West Fourth Street, Dayton, Ohio 45402)|[rsvp](http://www.ascdayton.org/TechFest/sign_up.html)|[](tel:+)||[](https://github.com/)
